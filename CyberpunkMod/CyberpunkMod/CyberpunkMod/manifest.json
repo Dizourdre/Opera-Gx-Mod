@@ -1,0 +1,175 @@
+{
+    "manifest_version": 3,
+    "name": "Cyberpunk 2077",
+    "description": "It's the code you live by that defines who you are.",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon.png"
+    },
+    "developer":
+    {
+        "name": "Dizourdre"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/layer1.mp3"
+            ],
+            
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/keyboard1.mp3",
+                    "sounds/keyboard8.mp3",
+                    "sounds/keyboard2.mp3",
+                    "sounds/keyboard7.mp3",
+                    "sounds/keyboard3.mp3",
+                    "sounds/keyboard6.mp3",
+                    "sounds/keyboard4.mp3",
+                    "sounds/keyboard5.mp3"
+                ],
+                "TYPING_ENTER":
+                [
+                    "sounds/spacebar.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    "sounds/spacebar.mp3"
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/backspace.mp3"
+                ]
+            },
+            "browser_sounds":
+            {
+                "SWITCH_TOGGLE":
+                [
+                    "sounds/FeatureSwitchON.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sounds/CloseTab.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "sounds/NewTab.mp3"
+                ],
+                "HOVER":
+                [
+                    "sounds/Hover.mp3"
+                ],
+                "HOVER_UP":
+                [
+                    "sounds/Hover.mp3"
+                ],
+                "CLICK":
+                [
+                    "sounds/spacebar.mp3"
+                ],
+                "LIMITER_ON":
+                [
+                    "sounds/FeatureSwitchON.mp3"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sounds/FeatureSwitchOFF.mp3"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    ""
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "sounds/FeatureSwitchON.mp3"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "sounds/FeatureSwitchOFF.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    ""
+                ],
+                "TAB_SLASH":
+                [
+                    ""
+                ]
+            },
+
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 163,
+                        "s": 100,
+                        "l": 41
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 347,
+                        "s": 100,
+                        "l": 16
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 360,
+                        "s": 100,
+                        "l": 39
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 159,
+                        "s": 76,
+                        "l": 88
+                    }
+                }
+            },
+
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/dark.png",
+                    "first_frame": "wallpaper/dark.png",
+                    "text_color": "#QF7CF1B",
+                    "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/light.png",
+                    "first_frame": "wallpaper/light.png",
+                    "text_color": "00CF97",
+                    "text_shadow": "#0B000E"
+                },
+
+                "page_styles":
+                [
+                    {
+                        "matches":
+                        [
+                            "https://*.discord.com/*"
+                        ],
+                        "css":
+                        [
+                            "css/main.theme.css",
+                            "css/changecolors.css"
+                        ]
+                    }
+                ]
+            } }
+        }
+    }
+
+
