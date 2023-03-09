@@ -4,7 +4,7 @@
 
 # Choisir votre mod. 
 
-![Aller dans le dossier du mod de votre choix] 
+![Aller dans le dossier du mod de votre choix](https://cdn.discordapp.com/attachments/654339907757670444/1083325551411994736/image.png)
 
 ![Télécharger le fichier ".crx"](https://media.discordapp.net/attachments/1064539557728620574/1075376745202593792/image.png?width=1440&height=207)
 
