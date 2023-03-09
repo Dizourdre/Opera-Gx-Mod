@@ -1,9 +1,10 @@
 # Opera-Gx-Mod
 # Comment installer l'extension sur OperaGX ? 
 ***
-- Télécharger le fichier ".crx" dans les Releases 
 
-![Accéder au release en cliquant sur le bouton Release a droite](https://media.discordapp.net/attachments/1064539557728620574/1075376487261286410/image.png)
+# Choisir votre mod. 
+
+![Aller dans le dossier du mod de votre choix] 
 
 ![Télécharger le fichier ".crx"](https://media.discordapp.net/attachments/1064539557728620574/1075376745202593792/image.png?width=1440&height=207)
 
