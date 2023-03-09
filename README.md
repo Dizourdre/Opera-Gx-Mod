@@ -11,7 +11,7 @@
 - Rendez-vous sur le site "opera:extensions"
 - Glissez-Déposez le fichier ".crx" 
 
-![Page Extensions](https://cdn.discordapp.com/attachments/654339907757670444/1075388635597258884/image.png)
+![Page Extensions](https://cdn.discordapp.com/attachments/654339907757670444/1083326851067412490/image.png)
 
 ***
 
