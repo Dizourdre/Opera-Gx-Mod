@@ -24,8 +24,8 @@
 
 - Activez le mode 
 
-![Activez le mod en appuyant sur le bouton "Activer"](https://cdn.discordapp.com/attachments/654339907757670444/1075389105346707466/image.png)
+![Activez le mod en appuyant sur le bouton "Activer"](https://cdn.discordapp.com/attachments/654339907757670444/1083327713055613019/image.png)
 
 - Personnalisez selon vos envies ! 
 
-![Désactivez ce qu'il ne vous plaît pas en décochant les cases](https://cdn.discordapp.com/attachments/654339907757670444/1075389211051561000/image.png)
+![Désactivez ce qu'il ne vous plaît pas en décochant les cases](https://cdn.discordapp.com/attachments/654339907757670444/1083328197992648754/image.png)
